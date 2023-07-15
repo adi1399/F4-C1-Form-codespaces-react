@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.325930ba.css",
+    "main.js": "/static/js/main.5a273cb2.js",
+    "static/js/496.0320d045.chunk.js": "/static/js/496.0320d045.chunk.js",
+    "static/media/abstraction.png": "/static/media/abstraction.cae8d59c00861ffa35ce.png",
+    "static/media/googleLogo.png": "/static/media/googleLogo.cadee8cdb0c0afb1a713.png",
+    "static/media/facebookLogo.png": "/static/media/facebookLogo.4f037d961598aff2a0a4.png",
+    "index.html": "/index.html",
+    "main.325930ba.css.map": "/static/css/main.325930ba.css.map",
+    "main.5a273cb2.js.map": "/static/js/main.5a273cb2.js.map",
+    "496.0320d045.chunk.js.map": "/static/js/496.0320d045.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.325930ba.css",
+    "static/js/main.5a273cb2.js"
+  ]
+}
